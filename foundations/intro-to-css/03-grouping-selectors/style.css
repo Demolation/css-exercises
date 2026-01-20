@@ -1,14 +1,13 @@
 .b1{
-    background-color: rgb(24, 27, 20);
-    color: hwb(0 100% 0%);
+    background-color: rgb(1,2,3);
+    color: #ffffff;
 }
 
 .b2{
-    background-color: rgb(245, 230, 17);
+    background-color: hsl(60,100%,50%);
 }
 
-.b1,
-.b2{
+.b2, .b1{
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
